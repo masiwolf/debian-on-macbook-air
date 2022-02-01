@@ -18,10 +18,10 @@ _Most probably wi-fi is not working, so you will need to use external wi-fi usb 
 
 ## Install Desktop Environment
 
-### Pantheon Dessktop
+### Pantheon Desktop
 I choose Elementary OS's Pantheon Desktop: [Pantheon Desktop on Debian](https://gandalfn.ovh/) 
 
-#### Install Pantheon Dessktop
+#### Install Pantheon Desktop
 1. Install required dependencies if needed
     `apt-get install apt-transport-https software-properties-common wget`
 2. Download package file
@@ -33,7 +33,7 @@ I choose Elementary OS's Pantheon Desktop: [Pantheon Desktop on Debian](https://
 5. Install Pantheon
     `sudo apt install pantheon`
 
-#### Launch Pantheon Dessktop
+#### Launch Pantheon Desktop
 
 To launch pantheon desktop select pantheon when launching session on greeter.
 
